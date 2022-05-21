@@ -30,7 +30,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ## Program:
 ```
 Developed by : NITHISHWAR S
-Register num : 212221230071
+Register number : 212221230071
 
 # Read image and convert it to grayscale image
 
